@@ -1,0 +1,12 @@
+C:\Users\rodri\Downloads\ElixrModsPlus\ElixrModsPlusProject\Elixr Mods Plus Packs\Other Mods\No More Books\NoMoreBooks-Eco.EM.Zymology\bin\Debug\net5.0\NoMoreBooks-Eco.EM.Zymology.deps.json
+C:\Users\rodri\Downloads\ElixrModsPlus\ElixrModsPlusProject\Elixr Mods Plus Packs\Other Mods\No More Books\NoMoreBooks-Eco.EM.Zymology\bin\Debug\net5.0\NoMoreBooks-Eco.EM.Zymology.dll
+C:\Users\rodri\Downloads\ElixrModsPlus\ElixrModsPlusProject\Elixr Mods Plus Packs\Other Mods\No More Books\NoMoreBooks-Eco.EM.Zymology\bin\Debug\net5.0\ref\NoMoreBooks-Eco.EM.Zymology.dll
+C:\Users\rodri\Downloads\ElixrModsPlus\ElixrModsPlusProject\Elixr Mods Plus Packs\Other Mods\No More Books\NoMoreBooks-Eco.EM.Zymology\bin\Debug\net5.0\NoMoreBooks-Eco.EM.Zymology.pdb
+C:\Users\rodri\Downloads\ElixrModsPlus\ElixrModsPlusProject\Elixr Mods Plus Packs\Other Mods\No More Books\NoMoreBooks-Eco.EM.Zymology\obj\Debug\net5.0\NoMoreBooks-Eco.EM.Zymology.csproj.AssemblyReference.cache
+C:\Users\rodri\Downloads\ElixrModsPlus\ElixrModsPlusProject\Elixr Mods Plus Packs\Other Mods\No More Books\NoMoreBooks-Eco.EM.Zymology\obj\Debug\net5.0\NoMoreBooks-Eco.EM.Zymology.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\Downloads\ElixrModsPlus\ElixrModsPlusProject\Elixr Mods Plus Packs\Other Mods\No More Books\NoMoreBooks-Eco.EM.Zymology\obj\Debug\net5.0\NoMoreBooks-Eco.EM.Zymology.AssemblyInfoInputs.cache
+C:\Users\rodri\Downloads\ElixrModsPlus\ElixrModsPlusProject\Elixr Mods Plus Packs\Other Mods\No More Books\NoMoreBooks-Eco.EM.Zymology\obj\Debug\net5.0\NoMoreBooks-Eco.EM.Zymology.AssemblyInfo.cs
+C:\Users\rodri\Downloads\ElixrModsPlus\ElixrModsPlusProject\Elixr Mods Plus Packs\Other Mods\No More Books\NoMoreBooks-Eco.EM.Zymology\obj\Debug\net5.0\NoMoreBooks-Eco.EM.Zymology.csproj.CoreCompileInputs.cache
+C:\Users\rodri\Downloads\ElixrModsPlus\ElixrModsPlusProject\Elixr Mods Plus Packs\Other Mods\No More Books\NoMoreBooks-Eco.EM.Zymology\obj\Debug\net5.0\NoMoreBooks-Eco.EM.Zymology.dll
+C:\Users\rodri\Downloads\ElixrModsPlus\ElixrModsPlusProject\Elixr Mods Plus Packs\Other Mods\No More Books\NoMoreBooks-Eco.EM.Zymology\obj\Debug\net5.0\ref\NoMoreBooks-Eco.EM.Zymology.dll
+C:\Users\rodri\Downloads\ElixrModsPlus\ElixrModsPlusProject\Elixr Mods Plus Packs\Other Mods\No More Books\NoMoreBooks-Eco.EM.Zymology\obj\Debug\net5.0\NoMoreBooks-Eco.EM.Zymology.pdb

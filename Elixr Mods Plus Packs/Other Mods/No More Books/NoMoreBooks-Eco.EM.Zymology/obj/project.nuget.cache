@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "+yO9IAN3fGBiIj1JoMV0Nlm46PDR1DNShHxmVQW3aKzYDe24PvEEMGioJKtttXxJC2/WoiGbQdjuCYQK9Je5DA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rodri\\Downloads\\EcoHispano\\Elixr Mods Plus Packs\\Other Mods\\No More Books\\NoMoreBooks-Eco.EM.Zymology\\NoMoreBooks-Eco.EM.Zymology.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rodri\\.nuget\\packages\\elixrmods.food.zymology\\3.0.3\\elixrmods.food.zymology.3.0.3.nupkg.sha512",
+    "C:\\Users\\rodri\\.nuget\\packages\\elixrmods.framework\\3.1.4\\elixrmods.framework.3.1.4.nupkg.sha512",
+    "C:\\Users\\rodri\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

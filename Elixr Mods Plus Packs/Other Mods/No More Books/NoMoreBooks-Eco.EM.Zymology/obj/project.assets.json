@@ -1,0 +1,165 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "ElixrMods.Food.Zymology/3.0.3": {
+        "type": "package",
+        "dependencies": {
+          "ElixrMods.Framework": "3.1.4"
+        },
+        "compile": {
+          "lib/net5.0/Eco.EM.Food.Zymology.dll": {}
+        },
+        "runtime": {
+          "lib/net5.0/Eco.EM.Food.Zymology.dll": {}
+        }
+      },
+      "ElixrMods.Framework/3.1.4": {
+        "type": "package",
+        "dependencies": {
+          "Newtonsoft.Json": "12.0.3"
+        },
+        "compile": {
+          "lib/net5.0/Eco.EM.Framework.dll": {}
+        },
+        "runtime": {
+          "lib/net5.0/Eco.EM.Framework.dll": {}
+        }
+      },
+      "Newtonsoft.Json/12.0.3": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ElixrMods.Food.Zymology/3.0.3": {
+      "sha512": "Yby0FPHNADlv3bxaH5uB0eYJY1IK2Ziu5V/LHY+6NjfIlWfadzHcJIw5PqGbh/1ekMv9ckOwRJFxLcsl/IW0aA==",
+      "type": "package",
+      "path": "elixrmods.food.zymology/3.0.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "elixrmods.food.zymology.3.0.3.nupkg.sha512",
+        "elixrmods.food.zymology.nuspec",
+        "lib/net5.0/Eco.EM.Food.Zymology.dll"
+      ]
+    },
+    "ElixrMods.Framework/3.1.4": {
+      "sha512": "hMsJs4mNpbLpLtpWtpEuOgV5/I8tJVe7wDTDW2MUE0b/GKBxXVn0KTDkUX8lsARp7zKJvUhvOgEYDVa0Cabp9g==",
+      "type": "package",
+      "path": "elixrmods.framework/3.1.4",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "elixrmods.framework.3.1.4.nupkg.sha512",
+        "elixrmods.framework.nuspec",
+        "lib/net5.0/Eco.EM.Framework.dll"
+      ]
+    },
+    "Newtonsoft.Json/12.0.3": {
+      "sha512": "6mgjfnRB4jKMlzHSl+VD+oUc1IebOZabkbyWj2RiTgWwYPPuaK1H97G1sHqGwPlS5npiF5Q0OrxN1wni2n5QWg==",
+      "type": "package",
+      "path": "newtonsoft.json/12.0.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.md",
+        "lib/net20/Newtonsoft.Json.dll",
+        "lib/net20/Newtonsoft.Json.xml",
+        "lib/net35/Newtonsoft.Json.dll",
+        "lib/net35/Newtonsoft.Json.xml",
+        "lib/net40/Newtonsoft.Json.dll",
+        "lib/net40/Newtonsoft.Json.xml",
+        "lib/net45/Newtonsoft.Json.dll",
+        "lib/net45/Newtonsoft.Json.xml",
+        "lib/netstandard1.0/Newtonsoft.Json.dll",
+        "lib/netstandard1.0/Newtonsoft.Json.xml",
+        "lib/netstandard1.3/Newtonsoft.Json.dll",
+        "lib/netstandard1.3/Newtonsoft.Json.xml",
+        "lib/netstandard2.0/Newtonsoft.Json.dll",
+        "lib/netstandard2.0/Newtonsoft.Json.xml",
+        "lib/portable-net40+sl5+win8+wp8+wpa81/Newtonsoft.Json.dll",
+        "lib/portable-net40+sl5+win8+wp8+wpa81/Newtonsoft.Json.xml",
+        "lib/portable-net45+win8+wp8+wpa81/Newtonsoft.Json.dll",
+        "lib/portable-net45+win8+wp8+wpa81/Newtonsoft.Json.xml",
+        "newtonsoft.json.12.0.3.nupkg.sha512",
+        "newtonsoft.json.nuspec",
+        "packageIcon.png"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "ElixrMods.Food.Zymology >= 3.0.3"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\rodri\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\rodri\\Downloads\\EcoHispano\\Elixr Mods Plus Packs\\Other Mods\\No More Books\\NoMoreBooks-Eco.EM.Zymology\\NoMoreBooks-Eco.EM.Zymology.csproj",
+      "projectName": "NoMoreBooks-Eco.EM.Zymology",
+      "projectPath": "C:\\Users\\rodri\\Downloads\\EcoHispano\\Elixr Mods Plus Packs\\Other Mods\\No More Books\\NoMoreBooks-Eco.EM.Zymology\\NoMoreBooks-Eco.EM.Zymology.csproj",
+      "packagesPath": "C:\\Users\\rodri\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\rodri\\Downloads\\EcoHispano\\Elixr Mods Plus Packs\\Other Mods\\No More Books\\NoMoreBooks-Eco.EM.Zymology\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\rodri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "dependencies": {
+          "ElixrMods.Food.Zymology": {
+            "target": "Package",
+            "version": "[3.0.3, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

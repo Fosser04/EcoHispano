@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Fsxw1cUaR8Xxee8OkgTZJTTfC3LoEDAXzOFhrKoCADFEHTGZAhQUOQhgj4FFUfFDtiWf3L7YWfaLOh02bUIbsw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rodri\\Downloads\\EcoHispano\\Elixr Mods Plus Packs\\Other Mods\\No More Books\\NoMoreBooks-EM.Eco.Artistry\\NoMoreBooks-Eco.EM.Artistry.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rodri\\.nuget\\packages\\elixrmods.artistry\\3.1.1\\elixrmods.artistry.3.1.1.nupkg.sha512",
+    "C:\\Users\\rodri\\.nuget\\packages\\elixrmods.framework\\3.1.5\\elixrmods.framework.3.1.5.nupkg.sha512",
+    "C:\\Users\\rodri\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

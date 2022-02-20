@@ -1,0 +1,77 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "NoMoreBooks-Eco.EM.Zymology/1.0.0": {
+        "dependencies": {
+          "ElixrMods.Food.Zymology": "3.0.3"
+        },
+        "runtime": {
+          "NoMoreBooks-Eco.EM.Zymology.dll": {}
+        }
+      },
+      "ElixrMods.Food.Zymology/3.0.3": {
+        "dependencies": {
+          "ElixrMods.Framework": "3.1.4"
+        },
+        "runtime": {
+          "lib/net5.0/Eco.EM.Food.Zymology.dll": {
+            "assemblyVersion": "3.0.3.0",
+            "fileVersion": "3.0.3.0"
+          }
+        }
+      },
+      "ElixrMods.Framework/3.1.4": {
+        "dependencies": {
+          "Newtonsoft.Json": "12.0.3"
+        },
+        "runtime": {
+          "lib/net5.0/Eco.EM.Framework.dll": {
+            "assemblyVersion": "3.1.4.0",
+            "fileVersion": "3.1.4.0"
+          }
+        }
+      },
+      "Newtonsoft.Json/12.0.3": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "12.0.0.0",
+            "fileVersion": "12.0.3.23909"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NoMoreBooks-Eco.EM.Zymology/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ElixrMods.Food.Zymology/3.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Yby0FPHNADlv3bxaH5uB0eYJY1IK2Ziu5V/LHY+6NjfIlWfadzHcJIw5PqGbh/1ekMv9ckOwRJFxLcsl/IW0aA==",
+      "path": "elixrmods.food.zymology/3.0.3",
+      "hashPath": "elixrmods.food.zymology.3.0.3.nupkg.sha512"
+    },
+    "ElixrMods.Framework/3.1.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-hMsJs4mNpbLpLtpWtpEuOgV5/I8tJVe7wDTDW2MUE0b/GKBxXVn0KTDkUX8lsARp7zKJvUhvOgEYDVa0Cabp9g==",
+      "path": "elixrmods.framework/3.1.4",
+      "hashPath": "elixrmods.framework.3.1.4.nupkg.sha512"
+    },
+    "Newtonsoft.Json/12.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-6mgjfnRB4jKMlzHSl+VD+oUc1IebOZabkbyWj2RiTgWwYPPuaK1H97G1sHqGwPlS5npiF5Q0OrxN1wni2n5QWg==",
+      "path": "newtonsoft.json/12.0.3",
+      "hashPath": "newtonsoft.json.12.0.3.nupkg.sha512"
+    }
+  }
+}

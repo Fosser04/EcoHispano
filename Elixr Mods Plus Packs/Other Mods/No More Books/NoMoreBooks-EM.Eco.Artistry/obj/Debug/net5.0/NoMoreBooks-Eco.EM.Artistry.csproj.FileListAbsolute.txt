@@ -1,0 +1,12 @@
+C:\Users\rodri\Downloads\ElixrModsPlus\ElixrModsPlusProject\Elixr Mods Plus Packs\Other Mods\No More Books\NoMoreBooks-EM.Eco.Artistry\bin\Debug\net5.0\NoMoreBooks-Eco.EM.Artistry.deps.json
+C:\Users\rodri\Downloads\ElixrModsPlus\ElixrModsPlusProject\Elixr Mods Plus Packs\Other Mods\No More Books\NoMoreBooks-EM.Eco.Artistry\bin\Debug\net5.0\NoMoreBooks-Eco.EM.Artistry.dll
+C:\Users\rodri\Downloads\ElixrModsPlus\ElixrModsPlusProject\Elixr Mods Plus Packs\Other Mods\No More Books\NoMoreBooks-EM.Eco.Artistry\bin\Debug\net5.0\ref\NoMoreBooks-Eco.EM.Artistry.dll
+C:\Users\rodri\Downloads\ElixrModsPlus\ElixrModsPlusProject\Elixr Mods Plus Packs\Other Mods\No More Books\NoMoreBooks-EM.Eco.Artistry\bin\Debug\net5.0\NoMoreBooks-Eco.EM.Artistry.pdb
+C:\Users\rodri\Downloads\ElixrModsPlus\ElixrModsPlusProject\Elixr Mods Plus Packs\Other Mods\No More Books\NoMoreBooks-EM.Eco.Artistry\obj\Debug\net5.0\NoMoreBooks-Eco.EM.Artistry.csproj.AssemblyReference.cache
+C:\Users\rodri\Downloads\ElixrModsPlus\ElixrModsPlusProject\Elixr Mods Plus Packs\Other Mods\No More Books\NoMoreBooks-EM.Eco.Artistry\obj\Debug\net5.0\NoMoreBooks-Eco.EM.Artistry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\Downloads\ElixrModsPlus\ElixrModsPlusProject\Elixr Mods Plus Packs\Other Mods\No More Books\NoMoreBooks-EM.Eco.Artistry\obj\Debug\net5.0\NoMoreBooks-Eco.EM.Artistry.AssemblyInfoInputs.cache
+C:\Users\rodri\Downloads\ElixrModsPlus\ElixrModsPlusProject\Elixr Mods Plus Packs\Other Mods\No More Books\NoMoreBooks-EM.Eco.Artistry\obj\Debug\net5.0\NoMoreBooks-Eco.EM.Artistry.AssemblyInfo.cs
+C:\Users\rodri\Downloads\ElixrModsPlus\ElixrModsPlusProject\Elixr Mods Plus Packs\Other Mods\No More Books\NoMoreBooks-EM.Eco.Artistry\obj\Debug\net5.0\NoMoreBooks-Eco.EM.Artistry.csproj.CoreCompileInputs.cache
+C:\Users\rodri\Downloads\ElixrModsPlus\ElixrModsPlusProject\Elixr Mods Plus Packs\Other Mods\No More Books\NoMoreBooks-EM.Eco.Artistry\obj\Debug\net5.0\NoMoreBooks-Eco.EM.Artistry.dll
+C:\Users\rodri\Downloads\ElixrModsPlus\ElixrModsPlusProject\Elixr Mods Plus Packs\Other Mods\No More Books\NoMoreBooks-EM.Eco.Artistry\obj\Debug\net5.0\ref\NoMoreBooks-Eco.EM.Artistry.dll
+C:\Users\rodri\Downloads\ElixrModsPlus\ElixrModsPlusProject\Elixr Mods Plus Packs\Other Mods\No More Books\NoMoreBooks-EM.Eco.Artistry\obj\Debug\net5.0\NoMoreBooks-Eco.EM.Artistry.pdb
